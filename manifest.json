@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "OpenShift doc version switcher",
+    "short_name": "oc ver sw",
+    "version": "0.0.2",
+  
+    "description": "Switching version of OpenShift document",
+  
+    "background": {
+        "scripts": ["eventPage.js"],
+        "persistent": false
+    },
+    "page_action": {
+        "default_icon": {
+        },
+        "default_title": "OpenShift doc version switcher",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "author": "tanaka_733"
+  }
+  
