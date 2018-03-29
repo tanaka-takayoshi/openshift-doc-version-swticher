@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "OpenShift doc version switcher",
     "short_name": "oc ver sw",
-    "version": "0.0.2",
+    "version": "0.0.3",
   
     "description": "Switching version of OpenShift document",
   
