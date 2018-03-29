@@ -18,6 +18,9 @@ chrome.extension.onMessage.addListener(
                     case "btnOpenLatest":
                         ver = "container-platform/latest"
                         break;
+                    case "btnOpen39":
+                        ver = "container-platform/3.9"
+                        break;
                     case "btnOpen37":
                         ver = "container-platform/3.7"
                         break;
